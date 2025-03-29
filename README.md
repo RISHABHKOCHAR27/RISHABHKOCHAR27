@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm Rishabh Kochar
 
 🚀 Code Alchemist | Bug Hunter | Coffee-Powered Innovator
+
 I craft iOS apps and full-stack web solutions that run smoother than your morning coffee. Passionate about new tech, frameworks, and solving problems, I love creating seamless user experiences—because glitches belong in video games, not apps!
 I also have experience with Python (data science-related) and C++ (tried my hand at game development).
 
