@@ -6,11 +6,8 @@ I craft iOS apps and full-stack web solutions that run smoother than your mornin
 I also have experience with Python (data science-related) and C++ (tried my hand at game development).
 
 🔧 Technologies & Tools:
-
 Languages: Swift, JavaScipt, C++, Python.
-
 Frameworks/Libraries: UIKit, SwiftUI, React, Node.js, Express.js.
-
 Backend: Firebase, MongoDB.
 
 
